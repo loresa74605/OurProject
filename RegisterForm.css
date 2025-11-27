@@ -35,4 +35,97 @@ button{
     background-color: #F7F1E7;
     margin-left: 110px;
 }
+/* ---------- RESPONSIVE DESIGN ---------- 
+@media (max-width: 768px) {
+    .register-box {
+        width: 90%;
+        height: auto;
+        padding: 20px;
+        margin-top: 40px;
+    }
+
+    input {
+        width: 95%;
+        height: 35px;
+        font-size: 16px;
+    }
+
+    button {
+        width: 60%;
+        margin-left: 0;
+        display: block;
+        margin: 15px auto;
+    }
+
+    .cookingicon {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .navbar img {
+        width: 22px;
+    }
+
+    /* Slider 
+    .slider {
+        height: 380px;
+    }
+
+    .slide {
+        height: 380px;
+    }
+
+    .slide-img {
+        width: 180px;
+    }
+
+    .title {
+        font-size: 90px;
+    }
+
+    .subtitle {
+        font-size: 24px;
+    }
+
+    .desc {
+        font-size: 14px;
+        width: 80%;
+        text-align: center;
+    }
+
+    .start-btn {
+        padding: 8px 18px;
+        font-size: 14px;
+    }
+}
+
+/* ----------- iPHONE SMALL (max-width 480px) ---------- 
+@media (max-width: 480px) {
+    .register-box {
+        width: 92%;
+        margin-top: 25px;
+        padding: 15px;
+    }
+
+    .title {
+        font-size: 65px;
+        letter-spacing: 2px;
+    }
+
+    .slide-img {
+        width: 150px;
+    }
+
+    .subtitle {
+        font-size: 20px;
+    }
+
+    .desc {
+        font-size: 13px;
+    }
+
+    .navbar {
+        padding: 6px 12px;
+    }
+}
 
